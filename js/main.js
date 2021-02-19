@@ -28,7 +28,7 @@ function teach(){
         }
         ques += 1
 	if(number == "***** ***"){
-	document.location.href = "https://www.google.com/search?client=opera-gx&q=jebać+pis&sourceid=opera&ie=UTF-8&oe=UTF-8"
+	document.location.href = "https://www.google.com/search?q=jeba%C4%87-pis&sxsrf=ALeKk02LESRsi33mHb44u_wFv66ruESXKw:1613754068862&source=lnms&sa=X&ved=0ahUKEwjYuZ2wtvbuAhXvwosKHXKTDgIQ_AUI6QEoAA&biw=1920&bih=969"
 	}
         if(number == 1){
             n1 += 1
