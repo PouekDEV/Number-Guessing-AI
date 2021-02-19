@@ -27,6 +27,9 @@ function teach(){
             listeningisgold()
         }
         ques += 1
+	if(number == "***** ***"){
+	document.location.href = "https://www.google.com/search?client=opera-gx&q=jebać+pis&sourceid=opera&ie=UTF-8&oe=UTF-8"
+	}
         if(number == 1){
             n1 += 1
             console.log("restt")
